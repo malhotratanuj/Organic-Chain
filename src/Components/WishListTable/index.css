@@ -1,0 +1,9 @@
+.wishlist-action .delete > svg{
+    fill: #f9311f;
+}
+.wishlist-action .cart > svg{
+    fill: #198754;
+}
+.wishlist-action button:hover, button:focus{
+    background: white;
+}

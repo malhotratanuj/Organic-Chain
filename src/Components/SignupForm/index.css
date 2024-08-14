@@ -1,0 +1,7 @@
+
+.signup-left-sidebar img{
+    transform: initial !important;
+    position: relative;
+    z-index: 2;
+    margin-left: 120px;
+}

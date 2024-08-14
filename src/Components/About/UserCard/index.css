@@ -1,0 +1,6 @@
+.user-shadow-img{
+    position: absolute;
+    bottom: -50px;
+    z-index: 1;
+    left: -10px;
+}

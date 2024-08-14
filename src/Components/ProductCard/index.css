@@ -1,0 +1,13 @@
+.product-card img{
+    border-radius: 50%;
+    margin-bottom: 12px;
+}
+.shop-action  svg{
+    fill: black;
+}
+.shop-action button:focus{
+    color: #000;
+}
+.shop-action button:hover  svg, .shop-action button:focus  svg{
+    fill: #000;
+}

@@ -1,0 +1,36 @@
+.banner{
+    border-radius: 20px;
+    padding: 20px;
+    margin-block: 20px;
+}
+.custom-heading{
+    font-size: 32px;
+    font-weight: 700;
+}
+.banner button:hover, button:focus{
+    color: white;
+    background: transparent;
+}
+@media only screen and (min-width: 768px) {
+    .banner{
+        height: 400px;
+        padding-inline: 50px;
+        border-radius: 16px;
+
+    }
+    .text-container{
+        width: 60%;
+        padding-top: 80px;
+    }
+    h2{
+        font-size: 3rem;
+    }
+    .img-container{
+        width: 40%;
+        z-index: 0;
+        right: 0;
+    }
+    .img-container > img{
+        width: 100%;
+    }
+}

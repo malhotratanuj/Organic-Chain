@@ -1,0 +1,25 @@
+.nav-link{
+    color: #000;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+}
+.btn:focus{
+    color: #000 !important;
+
+}
+.btn:hover{
+    color: #fff !important;
+}
+
+.icon > svg{
+    fill: white;
+}
